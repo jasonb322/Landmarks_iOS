@@ -1,15 +1,15 @@
 //
 //  ContentView.swift
-//  Shared
+//  WatchLandmarks WatchKit Extension
 //
-//  Created by Jason Bahr on 11/28/21.
+//  Created by Jason Bahr on 12/9/21.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, World!")
             .padding()
     }
 }
